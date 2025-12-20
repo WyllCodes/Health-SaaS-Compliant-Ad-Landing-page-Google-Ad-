@@ -18,7 +18,7 @@ This Repository contains a demo health SaaS Google Ads campaign and landing page
 
 
 # Project Overview
-#### Project Name: VamosHealth (Demo Health SaaS)
+#### Project Name: KuboMed (Demo Health SaaS)
 #### Project Type: Google Ads (Search) + Landing Page (Mock)
 
 ### Use Case: Portfolio demonstration of Google Ads policy-complaint Health SaaS Marketing
@@ -30,4 +30,4 @@ This Repository contains a demo health SaaS Google Ads campaign and landing page
  - Healthcare Administrators
 
 # Core Value Proposition:
- VamosHealth helps healthcare organizations & Patients streamline operations, manage records, and improve workflow efficiency - without providing medical diagnosis or treatment.
+ KuboMed helps healthcare organizations & Patients streamline operations, manage records, and improve workflow efficiency - without providing medical diagnosis or treatment.
