@@ -11,6 +11,7 @@ Health Startups struggle with:
 -	Low-trust Landing Pages
 -	Fear of account suspension
 Many telemedicine Ads fail before they scale.
+
 ### The Solution
 I Built:
 -	A Google-policy-complaint search ad campaign
@@ -49,49 +50,49 @@ Results(Simulated/ Test Campaign):
 ## Google Search Ads Setup (Step-by-Step)
 
 ### 1 Add Business Information
-![Add Business Information](Google-Ads/create-campaign-1.png)
+![Add Business Information](Google-Ads/create-campaign-1_1.png)
 **Examples:**
 -	Describe what makes your business Unique
 -	What specific services or products are you advertising in this campaign?
 -	Select Pages to get relevant image Ad suggestions
   
 ### 2 Choose Your Goal for this Campaign
-! [Choose Campaign Goal for this project] (  )
+![Choose Campaign Goal for this project](Google-Ads/create-campaign-2_1.png)
 **Campaign Goal Used**
 -	Submit Lead Form (potential customer fills and submits a form)
 
 ### 3 Search Themes Setup
-! [Search Themes] (  )
+![Search Themes](Google-Ads/create-campaign-3_1.png)
 **Search Themes Used:**
 -	Telemedicine services
 -	Online healthcare consultation
 -	Medical software
 
 ### 4 Location & Langauges
-! [Location & Languages] (  )
+![Location & Languages](Google-Ads/create-campaign-4.png)
 **Target Demographics Used**
 -	Canada (English & French)
 -	USA (English)
 
 ### 5 Writing Google Complaint Ad Headlines
-! [Ad Headlines] (  )
+![Ad Headlines](Google-Ads/create-campaign-5_1.png)
 **Headline Examples:**
 -	Telemedicine Software Platform
 -	Secure Virtual Health Platform
 -	Connect with a licensed Provider
 
 ### 6 Ad  Descriptions ( Policy Safe)
-! [Ad Description] (  )
+![Ad Description](Google-Ads/create-campaign-6.png)
 **Description Examples:**
 -	A modern healthcare SaaS solution for virtual consultation, scheduling
 -	Built for privacy & ease of use. A digital platform supporting privacy
 
 
 ### 7 Ad Asset(images)
-! [Add Image] ()
+![Add Image](Google-Ads/create-campaign-8.png)
 
 ### 8 Healthcare Policy Review
-! [Policy Review] ()
+![Policy Review](Google-Ads/create-campaign-7.png)
 **Compliance Steps Taken:**
 -	No diagnosis claims
 -	No guaranteed outcomes
@@ -99,18 +100,18 @@ Results(Simulated/ Test Campaign):
 -	Clear disclaimer added on Landing Page
 
 ### 9 Final Ad  Preview
-! [Final Ad Preview] ()
+![Final Ad Preview](Google-Ads/create-campaign-10-preview-mobile.png)
 -	Desktop Preview
 -	Mobile Preview
 
 ### 10 Bid Strategy
-! [Bid Strategy] ()
+![Bid Strategy](Google-Ads/create-campaign-10-bid_strategy_1.png)
 
 ### 11 Set Budget
-![Set Budget] ()
+![Set Budget](Google-Ads/create-campaign-11-bid_strategy_1.png)
 
 ### 12 Enter Payment Details
-![Payment Details] ()
+![Payment Details](Google-Ads/create-campaign-12-dailybudget_1.png)
 
 ## Google Ads Healthcare Compliance Notes
 Key rules followed:
